@@ -1,0 +1,2 @@
+CREATE DATABASE iotdb
+USE iotdb
