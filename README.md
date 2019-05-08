@@ -17,10 +17,6 @@ Setting up a InfluxDB server in a Docker container.
     * bind mount the configuration file *influxdb.conf*
     * link the network *ape*
 
-* The file *example.json* is a Node-RED flow that demonstrates the insertion of data into the database.
-Note that the Node-RED server must contain the postgres node 
-[node-red-contrib-postgres-multi](https://flows.nodered.org/node/node-red-contrib-postgres-multi)
-
 ## Getting started
 1. Clone this repository.
 2. Run the docker run script.
